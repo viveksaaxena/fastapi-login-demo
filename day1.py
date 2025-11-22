@@ -78,7 +78,7 @@ def get_login_form_html(message: str = "") -> str:
                     <a href="/register" class="text-indigo-600 hover:text-indigo-800 font-medium">यहाँ रजिस्टर करें</a>
                 </p>
                 <div class="mt-4 p-3 bg-red-100 rounded-lg border border-red-400">
-                    <p class="text-red-700 font-bold">सुरक्षा चेतावनी: यह डेमो पासवर्ड सीधे स्टोर करता है!</p>
+                    <p class="text-red-700 font-bold">This site build BY VIVEK S to build site contact vivek2399@outlook.com सुरक्षा चेतावनी: यह डेमो पासवर्ड सीधे स्टोर करता है!</p>
                     <p>टेस्ट यूज़र:</p>
                     <p class="font-bold">यूज़रनेम: testuser</p>
                     <p class="font-bold">पासवर्ड: testpass</p>
